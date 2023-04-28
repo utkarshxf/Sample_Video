@@ -4,7 +4,7 @@
 APP based on MVVM architecture.
 </p>
 </br>
-
+<p align="center"> 
 ![App Screenshot](https://user-images.githubusercontent.com/78771861/235232521-e26f7e92-1122-4b76-9ce7-cb3b3bf20f63.gif)
 A newzfi app is a mobile application that provides users with up-to-date news and information from various sources, typically in a user-friendly and customizable format. These apps offer news on various topics, including politics, sports, entertainment, business, and more.
 <img src=https://user-images.githubusercontent.com/78771861/234373867-aff56157-d9d5-42a9-9602-1bd4eb818ca5.gif align="right" />
@@ -25,7 +25,6 @@ A newzfi app is a mobile application that provides users with up-to-date news an
 ## Architecture
  based on the MVVM architecture and the Repository pattern, which follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
 
-![figure0](https://user-images.githubusercontent.com/78771861/234374635-afd7205c-ff92-48f6-a739-d39a1419b856.png)
 
 The overall architecture of **Newify** is composed of two layers; the UI layer and the data layer. Each layer has dedicated components and they have each different responsibilities, as defined below:
 
