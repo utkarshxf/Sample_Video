@@ -1,4 +1,4 @@
-package com.example.viewpager2withexoplayer
+package com.example.viewpager2withexoplayer.domain.model
 
 class Video(
     var title: String,

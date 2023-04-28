@@ -1,4 +1,4 @@
-package com.example.viewpager2withexoplayer
+package com.example.viewpager2withexoplayer.domain.model
 
 import com.google.android.exoplayer2.ExoPlayer
 

@@ -1,4 +1,4 @@
-package com.example.viewpager2withexoplayer
+package com.example.viewpager2withexoplayer.domain
 
 import android.content.Context
 import android.net.Uri
@@ -7,6 +7,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
+import com.example.viewpager2withexoplayer.domain.model.ExoPlayerItem
+import com.example.viewpager2withexoplayer.domain.model.Video
 import com.example.viewpager2withexoplayer.databinding.ListVideoBinding
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem

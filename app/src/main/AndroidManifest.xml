@@ -13,7 +13,7 @@
         android:usesCleartextTraffic="true"
         android:theme="@style/Theme.ViewPager2WithExoplayer">
         <activity
-            android:name=".MainActivity"
+            android:name=".presentation.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
