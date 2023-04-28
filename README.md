@@ -20,7 +20,7 @@ APP based on MVVM architecture.
   - MVVM Architecture (View - DataBinding - ViewModel - Model)
   - Repository Pattern
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit): Construct the REST APIs and paging network data.
-
+- [Exoplayer](https://developer.android.com/codelabs/exoplayer-intro#0): Create an ExoPlayer instance, which prepares and plays media.
 ## Architecture
  based on the MVVM architecture and the Repository pattern, which follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
 
@@ -51,4 +51,7 @@ The UI layer consists of UI elements to configure screens that could interact wi
 ![figure3](https://user-images.githubusercontent.com/78771861/234375003-f97e3da8-2fc3-4606-9a23-d118fb354079.png)
 
 The data Layer consists of repositories, which include business logic, such as querying data from the local database and requesting remote data from the network. It is implemented as an offline-first source of business logic and follows the [single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth) principle.<br>
+  
+this app is using the [PixabayAPI]([pixabay.com](https://pixabay.com/api/docs/)) for constructing RESTful API.<br>
+newsAPI provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to news.
 
