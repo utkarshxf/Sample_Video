@@ -15,6 +15,7 @@ APP based on MVVM architecture.
   - Lifecycle: Observe Android lifecycles and handle UI states upon the lifecycle changes.
   - ViewModel: Manages UI-related data holder and lifecycle aware. Allows data to survive configuration changes such as screen rotations.
   - DataBinding: Binds UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
+  - App is using the [PixabayAPI]([pixabay.com](https://pixabay.com/api/docs/)) for constructing RESTful API.<br>
  
 - Architecture
   - MVVM Architecture (View - DataBinding - ViewModel - Model)
@@ -52,6 +53,3 @@ The UI layer consists of UI elements to configure screens that could interact wi
 
 The data Layer consists of repositories, which include business logic, such as querying data from the local database and requesting remote data from the network. It is implemented as an offline-first source of business logic and follows the [single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth) principle.<br>
   
-this app is using the [PixabayAPI]([pixabay.com](https://pixabay.com/api/docs/)) for constructing RESTful API.<br>
-newsAPI provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to news.
-
