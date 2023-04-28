@@ -6,9 +6,10 @@ APP based on MVVM architecture.
 </br>
 <p align="center"> 
 ## Download
-Go to the [Releases](https://github.com/utkarshxf/Sample_Video/blob/master/app-debug%5B1%5D.apk) to download the latest APK.
-<img src=https://user-images.githubusercontent.com/78771861/235232521-e26f7e92-1122-4b76-9ce7-cb3b3bf20f63.gif align="right" />
 
+  Go to the [Releases](https://github.com/utkarshxf/Sample_Video/blob/master/app-debug%5B1%5D.apk) to download the latest APK.
+
+<img src=https://user-images.githubusercontent.com/78771861/235232521-e26f7e92-1122-4b76-9ce7-cb3b3bf20f63.gif align="right" />
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21
 - [Kotlin](https://kotlinlang.org/) based , [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)  for asynchronous.
